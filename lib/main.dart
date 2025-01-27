@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'home_page.dart';
-import 'pages/diet_page.dart';
-import 'pages/exercise_page.dart';
-import 'pages/womens_health_page.dart';
+import 'diet_page.dart';
+import 'exercise_page.dart';
+import 'womens_health_page.dart';
 
 void main() {
   runApp(const HealthApp());
